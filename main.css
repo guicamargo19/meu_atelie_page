@@ -43,6 +43,7 @@ header nav li a {
     color: #ecf0f1;
     text-decoration: none;
 }
+
 header nav li a:hover {
     color: #87BAAB;
     text-decoration: none;
@@ -103,6 +104,11 @@ section p {
 .store-front {
     margin-right: 32px;
     width: 414px;
+    padding-left: 8px;
+}
+
+form {
+    padding-left: 8px;
 }
 
 form input,
@@ -111,7 +117,7 @@ form button {
     display: block;
     width: 450px;
     margin-bottom: 8px;
-    padding: 8px;
+    padding: 8px 8px;
 }
 
 form #file {
@@ -141,14 +147,16 @@ input:focus, textarea:focus {
 
 #about .container p {
     text-align: justify;
+    padding-right: 8px;
 }
 
 #contact {
+    max-width: 1280px;
     width: 100%;
     margin: 0 auto;
     background-color: #ecf0f1;
     color: #326273;
-    padding: 16px 0;
+    padding: 8px 0;
 }
 
 #contact .container {
@@ -204,7 +212,7 @@ input:focus, textarea:focus {
     font-size: 16px;
     padding-top: 8px;
     list-style: none;
-    margin-right: 16px;
+    margin-right: 8px;
 }
 
 footer {
