@@ -114,6 +114,10 @@ form button {
     padding: 8px;
 }
 
+form #file {
+    padding-left: 0;
+}
+
 form textarea {
     resize: none;
     height: 190px;
