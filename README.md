@@ -1,5 +1,4 @@
-# Site GT Ateliê
+## Site GT Ateliê
 
-### Description
-
-Exemplo de site com HTML5 e CCS3.
+Site pessoal desenvolvido com HTML5 e CCS3 como exercício final de estilização
+e uso de atributos de seletores CSS em elementos HTML.
