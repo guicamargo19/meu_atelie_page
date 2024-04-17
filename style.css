@@ -217,12 +217,20 @@ input:focus, textarea:focus {
     margin-right: 16px;
 }
 
-footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #326273;
+.direitos {
+    text-align: center;
+    margin-top: 32px;
     color: #ecf0f1;
     padding: 16px 0;
-    margin-top: 32px;
+    background-color: #326273;
+}
+
+.direitos a {
+    text-decoration: none;
+    color: #ecf0f1;
+}
+
+.direitos a:hover {
+    text-decoration: none;
+    color: #708090;
 }

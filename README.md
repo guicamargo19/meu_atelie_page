@@ -1,6 +1,6 @@
-# Site GT Ateliê
+# Meu Ateliê
 
-<img src="assets/atelie.png">
+<img src="https://servidor-estatico-tan.vercel.app/atelie.png">
 
 Projeto desenvolvido no curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
